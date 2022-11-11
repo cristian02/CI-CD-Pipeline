@@ -1,0 +1,11 @@
+D:\pipelines\Pipelines\bin\Debug\net6.0\publish\Pipelines.exe
+D:\pipelines\Pipelines\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\pipelines\Pipelines\bin\Debug\net6.0\publish\appsettings.json
+D:\pipelines\Pipelines\bin\Debug\net6.0\publish\Pipelines.dll
+D:\pipelines\Pipelines\bin\Debug\net6.0\publish\Pipelines.deps.json
+D:\pipelines\Pipelines\bin\Debug\net6.0\publish\Pipelines.runtimeconfig.json
+D:\pipelines\Pipelines\bin\Debug\net6.0\publish\Pipelines.pdb
+D:\pipelines\Pipelines\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+D:\pipelines\Pipelines\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\pipelines\Pipelines\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\pipelines\Pipelines\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

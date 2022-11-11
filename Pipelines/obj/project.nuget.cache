@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AMyVQHWaPb8zTA5qGEsDa7d8cy4uVlg6VfhQpaqddOsuKXF5T18XnZr88oYMVsQtkxnkAmiO/rfrEohOMcXnDA==",
+  "dgSpecHash": "pY5n0BtmTAUh6zrl6b6wZnQkUYaDbuWDSsH7TtRyENl6I3bklKiBJzwpQ9QPS7nWfiM5M2sPfL8ppbEwfM/mJA==",
   "success": true,
-  "projectFilePath": "D:\\Pipelines\\Pipelines\\Pipelines.csproj",
+  "projectFilePath": "D:\\pipelines\\Pipelines\\Pipelines.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\304530347\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\304530347\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Pipelines\\Pipelines\\Pipelines.csproj": {}
+    "D:\\pipelines\\Pipelines\\Pipelines.csproj": {}
   },
   "projects": {
-    "D:\\Pipelines\\Pipelines\\Pipelines.csproj": {
+    "D:\\pipelines\\Pipelines\\Pipelines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pipelines\\Pipelines\\Pipelines.csproj",
+        "projectUniqueName": "D:\\pipelines\\Pipelines\\Pipelines.csproj",
         "projectName": "Pipelines",
-        "projectPath": "D:\\Pipelines\\Pipelines\\Pipelines.csproj",
+        "projectPath": "D:\\pipelines\\Pipelines\\Pipelines.csproj",
         "packagesPath": "C:\\Users\\304530347\\.nuget\\packages\\",
-        "outputPath": "D:\\Pipelines\\Pipelines\\obj\\",
+        "outputPath": "D:\\pipelines\\Pipelines\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -11,4 +11,8 @@ app.UseHttpsRedirection();
 
 //GET UTC
 app.MapGet("time/out", () => Results.Ok(DateTime.UtcNow));
+
+//
+app.MapGet("time/lastTime", ()=> Results.Ok(DateTimeOffset.Now.AddDays(-1)));
+
 app.Run();
